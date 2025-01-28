@@ -11,7 +11,12 @@ This repository showcases the projects I completed during the Oasis Infobyte Int
 I analyzed two datasets to uncover meaningful insights:
 
 - **Retail Sales Dataset:** Focused on regional and product-level sales performance.
+  
+Dataset: <a href="https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Link</a>
+
 - **Nutrition Facts for McDonald’s Menu:** Examined nutritional data to identify trends and anomalies.
+
+Dataset:<a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Link</a>
 
 ### Key Steps and Insights:
 
@@ -35,6 +40,8 @@ I analyzed two datasets to uncover meaningful insights:
 ### Project Overview:
 
 Built a predictive model to estimate house prices based on features such as location, size, and amenities using linear regression.
+
+Dataset:<a href="https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/input" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Link</a>
 
 ### Key Steps and Insights:
 
@@ -63,6 +70,8 @@ Built a predictive model to estimate house prices based on features such as loca
 
 Developed machine learning models to predict wine quality based on chemical properties like acidity, density, and alcohol content.
 
+Dataset:<a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Link</a>
+
 ### Key Steps and Insights:
 
 1. **Data Preparation:** Normalized features and addressed imbalanced data.
@@ -90,6 +99,9 @@ Developed machine learning models to predict wine quality based on chemical prop
 ### Project Overview:
 
 Created a fraud detection system to identify suspicious transactions using machine learning and anomaly detection techniques.
+
+Dataset: <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Link</a>
+
 
 ### Key Steps and Insights:
 

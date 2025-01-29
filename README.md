@@ -5,7 +5,7 @@ This repository showcases the projects I completed during the Oasis Infobyte Int
 ---
 
 ## **1. Exploratory Data Analysis (EDA) on Retail Sales Data**
-
+#### PROJECT 1 PROPOSAL LEVEL 1
 ### Project Overview:
 
 I analyzed two datasets to uncover meaningful insights:
@@ -36,7 +36,7 @@ Dataset:<a href="https://www.kaggle.com/datasets/mcdonalds/nutrition-facts" targ
 ---
 
 ## **2. Predicting House Prices with Linear Regression**
-
+#### PROJECT 1 PROPOSAL LEVEL 2
 ### Project Overview:
 
 Built a predictive model to estimate house prices based on features such as location, size, and amenities using linear regression.
@@ -65,7 +65,7 @@ Dataset:<a href="https://www.kaggle.com/code/ashydv/housing-price-prediction-lin
 ---
 
 ## **3. Wine Quality Prediction**
-
+#### PROJECT 2 PROPOSAL LEVEL 2
 ### Project Overview:
 
 Developed machine learning models to predict wine quality based on chemical properties like acidity, density, and alcohol content.
@@ -95,7 +95,7 @@ Dataset:<a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset" t
 ---
 
 ## **4. Fraud Detection**
-
+#### PROJECT 3 PROPOSAL LEVEL 2
 ### Project Overview:
 
 Created a fraud detection system to identify suspicious transactions using machine learning and anomaly detection techniques.
